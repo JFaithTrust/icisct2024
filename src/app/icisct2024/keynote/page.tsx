@@ -1,10 +1,10 @@
 const KeynotePage = () => {
 
   return (
-    <div>
-      <h1>Keynote Speakers</h1>
-      <p>Coming soon...</p>
-    </div>
+      <div className={"justify-center items-center flex"}>
+          <h1>Keynote Speakers</h1>
+          <p>Coming soon...</p>
+      </div>
   );
 }
 

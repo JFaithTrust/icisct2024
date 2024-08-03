@@ -1,9 +1,9 @@
 const ConferenceProgramPage = () => {
   return (
-    <div>
-      <h1>Conference Program</h1>
-      <p>Coming soon...</p>
-    </div>
+      <div className={"justify-center items-center flex"}>
+          <h1>Conference Program</h1>
+          <p>Coming soon...</p>
+      </div>
   );
 }
 
