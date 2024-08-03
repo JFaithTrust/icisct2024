@@ -7,6 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "ICISCT2024",
+  description: "The 2024 International Conference on Information Systems and Computer Technologies",
 };
 
 export default function RootLayout({
